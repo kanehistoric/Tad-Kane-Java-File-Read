@@ -8,6 +8,9 @@ public class WriteStudentAverages {
 
     
     public static void main(String[] args) throws IOException   {
+        System.out.println("Test1");
+        System.out.println("Test2");
+        System.out.println("Test3");
         System.out.println("This program uses a Scanner class object to scan in a text file of student names and grades,"
                 + "\nsaving each line of the text file as an element in a String array.  The program parses each of these"
                 + "\nelements to get the name and grades of each student, and calculate the average grade. It writes this info"
